@@ -1,0 +1,16 @@
+Download the zip file containing the game.
+1)Unzip the folder to extract its contents.
+2)Locate the index.html file and double-click on it to open it in your web browser.
+
+To customize the game for your child, you can change the image and audio associated with each letter. Follow these instructions:
+
+Navigate to the img folder within the extracted folder.
+Replace the existing image with the new image you want to use. Make sure the image file format is supported (PNG).
+Rename the new image file to match the letter you want to associate it with (e.g., b.png for the letter "B").
+Similarly, go to the audio folder and replace the audio file with the desired audio for the corresponding letter. Ensure the audio file is in a compatible format (e.g., MP3).
+Rename the new audio file to match the letter (e.g., b.mp3 for the letter "B").
+By following these steps, when your child presses a button corresponding to a letter, they will see the new image and hear the updated audio that you have chosen.
+
+Please note that although this implementation lacks a backend, it provides a basic interactive experience for your child.
+
+This project serves as an example of my front-end development skills and my ability to create educational and user-friendly web applications. It demonstrates my understanding of HTML, file organization, and customization.
